@@ -40,7 +40,7 @@ I'm Alex and I'm a second-year Computing and Information Technologies BS student
 
 ### 🐍 &nbsp;Most Used Languages:
 
-[![Top Langs](https://github-readme-stats-5ho5-8jvc6pa89-minemythoughts.vercel.app/api/top-langs/?username=minemythoughts&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stat-minemythoughts.vercel.app/api/top-langs/?username=minemythoughts&layout=compact&theme=vision-friendly-dark)](https://github.com/minemythoughts/github-readme-stats)
 ---
 
 ### 🎧 &nbsp;Recently Played Music:
